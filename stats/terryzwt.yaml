@@ -1,5 +1,5 @@
 username: terryzwt
-updatedAt: 2026-09-19T23:18:03.713Z
+updatedAt: 2026-09-20T13:36:05.421Z
 skills:
   team-onboarding:
     count: 3
@@ -23,8 +23,8 @@ skills:
     count: 3
     lastUsed: 2026-09-14T01:16:29.606Z
   dsf-cli:
-    count: 3
-    lastUsed: 2026-09-16T04:53:21.371Z
+    count: 4
+    lastUsed: 2026-09-20T06:30:05.778Z
   grilling:
     count: 2
     lastUsed: 2026-09-14T03:50:27.487Z
@@ -52,12 +52,21 @@ skills:
   zcode-configuration-guide:
     count: 1
     lastUsed: 2026-09-19T00:14:33.365Z
+  typesafe:typesafe-ai:
+    count: 1
+    lastUsed: 2026-09-19T23:19:22.694Z
+  tencent-docs-routing:
+    count: 1
+    lastUsed: 2026-09-20T06:29:06.950Z
+  tencent-docx:
+    count: 1
+    lastUsed: 2026-09-20T06:29:12.341Z
 interventions:
-  sessions: 51
+  sessions: 52
   interrupt: 0
   toolReject: 0
   correction: 2
-prompts: 184
+prompts: 185
 tokens:
   input: 464271
   output: 43938
