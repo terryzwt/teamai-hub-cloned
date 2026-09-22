@@ -1,0 +1,40 @@
+username: terryzwt
+updatedAt: 2026-09-22T21:08:21.231Z
+skills:
+  redmine-cli:
+    count: 4
+    lastUsed: 2026-09-22T11:34:01.960Z
+  bailian-train-deploy:
+    count: 1
+    lastUsed: 2026-09-21T03:45:30.272Z
+  mmx-cli:
+    count: 1
+    lastUsed: 2026-09-21T03:51:17.121Z
+  multi-search:
+    count: 1
+    lastUsed: 2026-09-21T04:01:22.603Z
+  run:
+    count: 1
+    lastUsed: 2026-09-22T14:54:01.467Z
+interventions:
+  sessions: 1
+  interrupt: 0
+  toolReject: 0
+  correction: 0
+prompts: 3
+tokens:
+  input: 41158
+  output: 5810
+  cacheRead: 903936
+  cacheCreation: 0
+daily:
+  2026-09-20:
+    sessionsEnded: 1
+    sessionsSucceeded: 1
+    promptTurns: 2
+    durationMs: 905829
+    sessionsCorrected: 0
+    pricedRequests: 0
+    costMicros: 0
+    cacheReadTokens: 903936
+    cacheEligibleInputTokens: 945094
